@@ -19,4 +19,4 @@ please refer to the license in the repo.
 https://eddieg00.github.io/4-cast-4-me/
 
 
-![ScreenShot](https://github.com/eddieg00/4-cast-4-me/blob/main/screenshot/Weather%20API.png?raw=true)
+![ScreenShot](https://github.com/eddieg00/4-cast-4-me/blob/main/screenshot\Screenshot(22).png)
