@@ -16,7 +16,7 @@ This is a website for users to take notes diveded by a title and text to save an
 please refer to the license in the repo.
 
 ## website link
-https://eddieg00.github.io/4-cast-4-me/
+https://notetaker624.herokuapp.com/notes
 
 
 ![ScreenShot](https://github.com/eddieg00/expressnotes/blob/main/screenshot/Screenshot%20(22).png)
